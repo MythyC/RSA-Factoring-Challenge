@@ -1,3 +1,3 @@
 ## RSA-Factoring-Challenge Task
 
-** AUTHOR - CHUBBY Uzoechi
+**AUTHOR - CHUBBY UzoechiA
